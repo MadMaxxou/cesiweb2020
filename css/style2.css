@@ -76,3 +76,17 @@ a {
     color: #e2e1f0;
 }
 
+
+.footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    left: 0px;
+    height: 50px;
+    background-color:  #53575c;
+}
+
+.text{
+    text-align: center;
+
+}
