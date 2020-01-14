@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="679d58fb-d325-45f3-802d-f821057e864e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/swipe-menu-animation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swipe-menu-lateral-animation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swipe-menu-tactile-touch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swipe-menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swipe-menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swipe-menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/slideshow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slideshow.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swipe-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/swipe-menu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +64,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projets\GitHub\Site-test\js" />
+      <recent name="D:\Projets\GitHub\Site-test\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projets\GitHub\Site-test" />
     </key>
@@ -96,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578912568537</updated>
       <workItem from="1578912570377" duration="10563000" />
-      <workItem from="1578987718485" duration="1133000" />
+      <workItem from="1578987718485" duration="2136000" />
     </task>
     <task id="LOCAL-00001" summary="Changement du alt">
       <created>1578987831358</created>
@@ -105,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578987831358</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ajout de d'un swipe menu">
+      <created>1578989055537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578989055537</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changement du alt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changement du alt" />
+    <MESSAGE value="Ajout de d'un swipe menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout de d'un swipe menu" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Notifications" timestamp="1578928736425">
@@ -134,10 +144,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="231" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578912980824" />
-    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1578987830108">
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1578989054141">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578987830108" />
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578989054141" />
     <state x="513" y="173" key="FileChooserDialogImpl" timestamp="1578928809231">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -146,14 +156,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="605" y="124" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1578928984664" />
-    <state x="242" y="61" key="SettingsEditor" timestamp="1578928813411">
+    <state x="242" y="61" key="SettingsEditor" timestamp="1578989865631">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="242" y="61" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578928813411" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1578987836782">
+    <state x="242" y="61" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578989865631" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1578989058855">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578987836782" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578989058855" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1578987718946">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
