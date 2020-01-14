@@ -13,6 +13,30 @@ body{
     background: darkslategrey;
 
 }
+
+.wrapper{
+
+}
+
+.boites{
+    position: relative;
+    margin: 50px 50px;
+}
+
+.carre{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #9A2519;
+
+}
+.decalee{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    left: 0px;
+}
+
 .topnav {
     background-image: linear-gradient(green,darkslategrey);
     overflow: hidden;
