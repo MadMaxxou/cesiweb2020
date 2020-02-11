@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29b5fac5-2951-48aa-80aa-884126625947" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/404.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/404.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/carousel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,13 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -67,7 +70,8 @@
       <workItem from="1581407840731" duration="218000" />
       <workItem from="1581408124782" duration="14959000" />
       <workItem from="1581428180418" duration="1348000" />
-      <workItem from="1581431191601" duration="711000" />
+      <workItem from="1581431191601" duration="813000" />
+      <workItem from="1581432477123" duration="2024000" />
     </task>
     <servers />
   </component>
@@ -75,14 +79,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Deployment" timestamp="1581432910923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1581432910923" />
+    <state x="741" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581433033331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581433033331" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1581434320889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581434320889" />
     <state x="594" y="299" key="EditFileWatcherDialog" timestamp="1581423592053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="594" y="299" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581423592053" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581431937008">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581432038969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581431937008" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581432038969" />
     <state x="794" y="444" key="NewPhpFileDialog" timestamp="1581407934467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -91,6 +107,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581428479427" />
+    <state x="822" y="420" key="WebDeployment.AddServerDialog.v.1" timestamp="1581432505513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="822" y="420" key="WebDeployment.AddServerDialog.v.1/0.0.1920.1040@0.0.1920.1040" timestamp="1581432505513" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581407886580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

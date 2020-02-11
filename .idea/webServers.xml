@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d7d20205-9190-459b-97a1-a6fd10796111" name="ftp-site" url="http://ril.nte.ovh">
+        <fileTransfer host="ril.nte.ovh" port="2834" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2834" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
