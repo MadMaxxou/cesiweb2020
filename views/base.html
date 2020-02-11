@@ -1,39 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta name="viewport" content="width=500, initial-scale=1">
-  <meta charset="UTF-8">
-  <title>Madera</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
   <link rel="stylesheet" type="text/css" href="css/menu.scss" media="all"/>
-  <link rel="stylesheet" type="text/css" href="css/carousel.scss" media="all"/>
   <link rel="stylesheet" type="text/css" href="css/font-awesome/css/font-awesome.css" media="all"/>
   <link rel="stylesheet" type="text/css" href="css/font-awesome/scss/font-awesome.scss" media="all"/>
-
 </head>
 <body>
-<div class="back">
-  <div style="position: absolute">
-    <nav id="menu">
-      <a href="index.html">Accueil</a>
-      <a href="views/composant/carousel.html">Images</a>
+<div class="back"></div>
+<nav id="menu">
+      <a href="index.php">Home</a>
+      <a href="404.html">Works</a>
       <a href="#">Partners</a>
       <a href="#">Price</a>
       <a href="views/pages/test.html  ">test</a>
 
     </nav>
-  </div>
 
+<div id="content">
+  <h1>Accueil</h1>
 
-  <div id="content" class="div1">
-    <h1>Accueil</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  </div>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </div>
-
-
-
-
-<script src="js/carousel.js"></script>
 <script src="js/jquery.js"></script>
 </body>
 
@@ -43,7 +32,7 @@
   $(document).ready(function(){
 
     /* Au clic sur un élément de menu... */
-    $('#menu a').click(function(event){
+    $('#menu li a').click(function(event){
 
       /* On récupère l'url du lien sur lequel on vient de cliquer. */
       var url = $(this).attr('href');

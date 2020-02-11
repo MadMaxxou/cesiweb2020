@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="679d58fb-d325-45f3-802d-f821057e864e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
-    </list>
+    <list default="true" id="29b5fac5-2951-48aa-80aa-884126625947" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,235 +12,79 @@
       <executable />
     </execution>
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FavoritesManager">
-    <favorites_list name="Site-test" />
+    <favorites_list name="site" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1WKyQxdra9IdYgwGcAi3Ust4s5m" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1XeY4auWoUuGGVxIIq6zWm9ZMIV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projets\GitHub\Site-test" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Projets\GitHub\Site-test" />
-      <recent name="D:\Projets\GitHub\Site-test\js" />
-      <recent name="D:\Projets\GitHub\Site-test\css" />
-    </key>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="679d58fb-d325-45f3-802d-f821057e864e" name="Default Changelist" comment="" />
-      <created>1578912568537</created>
+      <changelist id="29b5fac5-2951-48aa-80aa-884126625947" name="Default Changelist" comment="" />
+      <created>1581407836846</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578912568537</updated>
-      <workItem from="1578912570377" duration="10563000" />
-      <workItem from="1578987718485" duration="8118000" />
-      <workItem from="1578997207239" duration="2031000" />
-      <workItem from="1579005198641" duration="5789000" />
-      <workItem from="1579012291438" duration="10000" />
-      <workItem from="1579013043405" duration="2206000" />
+      <updated>1581407836846</updated>
+      <workItem from="1581407840731" duration="218000" />
+      <workItem from="1581408124782" duration="14959000" />
+      <workItem from="1581428180418" duration="1348000" />
     </task>
-    <task id="LOCAL-00001" summary="Changement du alt">
-      <created>1578987831358</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1578987831358</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Ajout de d'un swipe menu">
-      <created>1578989055537</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1578989055537</updated>
-    </task>
-    <task id="LOCAL-00003" summary="maj">
-      <created>1578989881605</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1578989881605</updated>
-    </task>
-    <task id="LOCAL-00004" summary="maj">
-      <created>1579007075794</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1579007075794</updated>
-    </task>
-    <task id="LOCAL-00005" summary="maj">
-      <created>1579007098119</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1579007098119</updated>
-    </task>
-    <task id="LOCAL-00006" summary="maj">
-      <created>1579007112707</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1579007112707</updated>
-    </task>
-    <task id="LOCAL-00007" summary="maj">
-      <created>1579013182176</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1579013182176</updated>
-    </task>
-    <task id="LOCAL-00008" summary="maj">
-      <created>1579014103478</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1579014103478</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Changement du alt" />
-    <MESSAGE value="Ajout de d'un swipe menu" />
-    <MESSAGE value="maj" />
-    <option name="LAST_COMMIT_MESSAGE" value="maj" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="72" key="#Notifications" timestamp="1578928736425">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="72" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1578928736425" />
-    <state x="231" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578912980824">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="231" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578912980824" />
-    <state x="219" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579006858356">
+    <state x="594" y="299" key="EditFileWatcherDialog" timestamp="1581423592053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="219" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579006858356" />
-    <state x="236" y="380" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579006876520">
+    <state x="594" y="299" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581423592053" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581428474813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="236" y="380" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1579006876520" />
-    <state x="491" y="10" key="CommitChangelistDialog2" timestamp="1579014102167">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581428474813" />
+    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1581407934467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578989880266" />
-    <state x="491" y="10" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579014102167" />
-    <state x="641" y="218" key="FileChooserDialogImpl" timestamp="1579012298309">
+    <state x="794" y="444" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581407934467" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1581428479427">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="513" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578928809231" />
-    <state x="641" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579012298309" />
-    <state x="324" y="448" key="NewPhpFileDialog" timestamp="1579012034245">
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581428479427" />
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581407886580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="324" y="448" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579012034245" />
-    <state x="605" y="124" key="RollbackChangesDialog" timestamp="1578928984664">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="605" y="124" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1578928984664" />
-    <state x="242" y="61" key="SettingsEditor" timestamp="1578989998073">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="242" y="61" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578989998073" />
-    <state x="451" y="184" key="Vcs.Push.Dialog.v2" timestamp="1579014106070">
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581407886580" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581414342142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578989883288" />
-    <state x="451" y="184" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579014106070" />
-    <state x="581" y="300" width="485" height="279" key="com.intellij.ide.util.TipDialog" timestamp="1579012291422">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="388" y="198" width="485" height="279" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578997450081" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579005198967" />
-    <state x="581" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579012291422" />
-    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578928705939">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1578928705939" />
-    <state x="588" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1579014912014">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="470" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578922020127" />
-    <state x="588" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579014912014" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581414342142" />
   </component>
 </project>
