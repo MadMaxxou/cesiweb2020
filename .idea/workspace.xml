@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29b5fac5-2951-48aa-80aa-884126625947" name="Default Changelist" comment="" />
+    <list default="true" id="29b5fac5-2951-48aa-80aa-884126625947" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/404.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/404.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +49,11 @@
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://maxime-guillou.ril.nte.ovh/" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -55,6 +67,7 @@
       <workItem from="1581407840731" duration="218000" />
       <workItem from="1581408124782" duration="14959000" />
       <workItem from="1581428180418" duration="1348000" />
+      <workItem from="1581431191601" duration="711000" />
     </task>
     <servers />
   </component>
@@ -66,10 +79,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="594" y="299" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581423592053" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581428474813">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581431937008">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581428474813" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581431937008" />
     <state x="794" y="444" key="NewPhpFileDialog" timestamp="1581407934467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
