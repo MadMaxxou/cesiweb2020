@@ -1,6 +1,6 @@
 body {
   margin: 0; padding: 0; /* annulation des marges */
-  overflow: hidden; /* on cache le débordement de contenu */
+  overflow: visible; /* on cache le débordement de contenu */
   color: #fff;
   background: #ead2cb ;
 }
@@ -88,35 +88,13 @@ body {
 
 
 /* slides */
-@media screen and (min-width: 768px) {
-  #slide1, #slide2, #slide3 {
-    /* height à adapter avec media queries */
-    height: 768px;
-    padding-top:100px;
-    /* préparation des transitions */
-    transition: background-position 1.4s  cubic-bezier(.49,.22,.52,1.35);
-  }
+#slide1, #slide2, #slide3 {
+  /* height à adapter avec media queries */
+  height: 1000px;
+  padding-top:100px;
+  /* préparation des transitions */
+  transition: background-position 1.4s  cubic-bezier(.49,.22,.52,1.35);
 }
-@media screen and (min-width: 992px) {
-  #slide1, #slide2, #slide3 {
-    /* height à adapter avec media queries */
-    height: 992px;
-    padding-top:100px;
-    /* préparation des transitions */
-    transition: background-position 1.4s  cubic-bezier(.49,.22,.52,1.35);
-  }
-}
-@media screen and (min-width: 1200px) {
-  #slide1, #slide2, #slide3 {
-    /* height à adapter avec media queries */
-    height: 1200px;
-    padding-top:100px;
-    /* préparation des transitions */
-    transition: background-position 1.4s  cubic-bezier(.49,.22,.52,1.35);
-  }
-}
-
-
 /* attribution des images de fond */
 #slide1 { background:url(https://cdn.discordapp.com/attachments/337935730045222923/677521172597833728/img.png) center 0 no-repeat fixed;background-size: cover;  }
 
@@ -141,8 +119,8 @@ h2{
 
 .parent {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
   grid-column-gap: 0px;
   grid-row-gap: 0px;
 }
