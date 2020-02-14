@@ -1,18 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-  <meta name="viewport" content="width=500, initial-scale=1">
-
-
-</head>
+<html>
 <body>
-<div id="content">
-  <h1>TEST</h1>
-
-  <p>deez</p>
-
+<div id="app">
+  {{ message }}
 </div>
+<script>
+  var app = new Vue({
+    el: '#app',
+    data: {
+      message: 'Hello Vue!'
+    }
+  })
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
 
 </body>
 </html>
