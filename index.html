@@ -17,6 +17,7 @@
   <link rel="stylesheet" href="css/parallaxe.css">
   <link rel="stylesheet" href="css/carousel.css">
   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="js/main.js"></script>
 </head>
 
 <body><!-- éléments cachés pour jouer avec :target -->
@@ -44,24 +45,42 @@
 
   <!-- La slide 2 -->
   <div id="slide2">
-    <div class="slide_inside">
-      <!-- Les deux éléments en 1er plan -->
 
-      <img style="width: 70%; height: 200%" src="https://cdn.discordapp.com/attachments/337935730045222923/677519972594876447/54aba2d4eccc22783f56a227-1437481491-1000x1000.png" id="madera" alt="">
+
+
+      <!-- Les deux éléments en 1er plan
+
+        <img style="width: 70%; height: 200%" src="https://cdn.discordapp.com/attachments/337935730045222923/677519972594876447/54aba2d4eccc22783f56a227-1437481491-1000x1000.png" id="madera" alt="">
       <img src="https://media.discordapp.net/attachments/337935730045222923/666258101250424853/logo.png" id="maison" alt="">
+      -->
 
-      <h2>...</h2>
+
+
+
+      <div class="parent">
+        <div class="div1">
+          <h2>L'entreprise</h2>
+            <p>Le concept MADERA est orienté vers des solutions modulaires innovantes et offre des réalisations uniques de bâtiments architecturés en bois.
+
+              Avec MADERA, vos bâtiments sont personnalisables et innovants.
+
+              Tous les avantages du modulaire sont réunis avec en plus la qualité et le confort d’un bâtiment thermiquement performant.
+
+              Les modulaires MADERA s’adaptent à tous vos projets.</p>
+        </div>
+      </div>
+      <img src="https://media.discordapp.net/attachments/337935730045222923/677519972594876447/54aba2d4eccc22783f56a227-1437481491-1000x1000.png?width=676&height=676" style="width: 338px;height: 338px;">
+      <iframe src="https://discordapp.com/widget?id=643813146326204436&theme=dark" width="350" height="500" align="right" class="discord"></iframe>
       <p>...</p>
-      <template>
-        <carousel :data="data"></carousel>
-      </template>
     </div> <!-- /.slide_inside-->
-  </div> <!-- /#slide2 -->
+  <!-- /#slide2 -->
 
   <!-- La slide 2 -->
   <div id="slide3">
     <div class="slide_inside">
-      <h2>defef</h2>
+      <h2 id="app">{{ message }}</h2>
+
+
       […]
     </div> <!-- /.slide_inside-->
   </div> <!--  /#slide3 -->
@@ -70,28 +89,16 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script>
-  export default {
-    data() {
-      return  {
-        data: [
-          '<div class="slideshow">Slide 1</div>',
-          '<div class="slideshow">Slide 2</div>',
-          '<div class="slideshow">Slide 3</div>',
-        ]
-      }
+  var app = new Vue({
+    el: '#app',
+    data: {
+      message: 'Hello Vue!'
     }
-  }
-</script>
-
-<script>
-  $(document).ready(function(){
-    $('#slide1').parallax("center", 0, 0.1, true);
-    $('#slide2').parallax("center", 900, 0.1, true);
-    $('#slide3').parallax("center", 2900, 0.1, true);
   })
 </script>
+
 </body>
 
 </html>

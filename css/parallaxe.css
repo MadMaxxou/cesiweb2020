@@ -88,25 +88,68 @@ body {
 
 
 /* slides */
-#slide1, #slide2, #slide3 {
-  /* height à adapter avec media queries */
-  height: 1000px;
-  padding-top:100px;
-  /* préparation des transitions */
-  transition: background-position 1.4s  cubic-bezier(.49,.22,.52,1.35);
+@media screen and (min-width: 768px) {
+  #slide1, #slide2, #slide3 {
+    /* height à adapter avec media queries */
+    height: 768px;
+    padding-top:100px;
+    /* préparation des transitions */
+    transition: background-position 1.4s  cubic-bezier(.49,.22,.52,1.35);
+  }
 }
+@media screen and (min-width: 992px) {
+  #slide1, #slide2, #slide3 {
+    /* height à adapter avec media queries */
+    height: 992px;
+    padding-top:100px;
+    /* préparation des transitions */
+    transition: background-position 1.4s  cubic-bezier(.49,.22,.52,1.35);
+  }
+}
+@media screen and (min-width: 1200px) {
+  #slide1, #slide2, #slide3 {
+    /* height à adapter avec media queries */
+    height: 1200px;
+    padding-top:100px;
+    /* préparation des transitions */
+    transition: background-position 1.4s  cubic-bezier(.49,.22,.52,1.35);
+  }
+}
+
+
 /* attribution des images de fond */
 #slide1 { background:url(https://cdn.discordapp.com/attachments/337935730045222923/677521172597833728/img.png) center 0 no-repeat fixed;background-size: cover;  }
 
 
 /* Contenus des slides */
-.slide_inside {
+/*.slide_inside {
   width: 770px;
   margin: 0 auto;
   position: relative;
   background-color: rgba(0, 0, 0, .6);
-  padding: 50px;
+  padding: 50px;}*/
 
+h2{
+  color: #222222;
+}
+
+.discord {
+  align:right;
+  allowtransparency: true;
+  frameborder: 0;
+}
+
+.parent {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.div1 { grid-area: 3 / 1 / 5 / 3; }
+p{
+  color: #666666;
 }
 
 #slide1 .slide_inside {
